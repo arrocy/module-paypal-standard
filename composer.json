@@ -2,14 +2,14 @@
     "config": {
         "autoloader-suffix": "PaypalStandard"
     },
-    "name": "akaunting/module-paypal-standard",
-    "description": "PayPal Standard app for Akaunting",
-    "homepage": "https://akaunting.com",
+    "name": "arrocy/module-paypal-standard",
+    "description": "PayPal Standard app for Arrocy",
+    "homepage": "https://arrocy.com",
     "keywords": [
         "laravel",
         "accounting",
         "invoice",
-        "akaunting",
+        "arrocy",
         "paypal"
     ],
     "license": "GPL-3.0+",
